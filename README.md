@@ -3,6 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+
+
 - 🔭 &nbsp; I am currently attending Lambda School
 - 🤔 &nbsp; About to start the 'labs' portion of school => one big group project for a month
 - 🎓 &nbsp; Studying Full Stack Web Development
