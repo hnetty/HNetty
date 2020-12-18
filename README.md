@@ -6,7 +6,7 @@
 
 
 - 🔭 &nbsp; I am currently attending Lambda School
-- 🤔 &nbsp; About to start the 'labs' portion of school => one big group project for a month
+- 🤔 &nbsp; Working on the 'labs' portion of school => one big group project for a month
 - 🎓 &nbsp; Studying Full Stack Web Development
 - 💼 &nbsp; Front-End Web Developer, on the job hunt soon 👀
 - 🌱 &nbsp; Love figuring problems out and developing my skillset
